@@ -1,5 +1,7 @@
-# Hi, I'm lexio! 👋
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alessio2012&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+# Hi, I'm lexio! 👋
 I am a passionate Tech CS student at Unisa, driven by a curiosity for technology and a love for writing and design. 
 My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
